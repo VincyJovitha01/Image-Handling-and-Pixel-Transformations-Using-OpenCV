@@ -1,6 +1,7 @@
 # Ex.No.01 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-#### *Name:* VINCY JOVITHA V
-#### *Register Number:* 212223230242
+### Name: VINCY JOVITHA V
+### Register Number: 212223230242
+
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
