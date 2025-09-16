@@ -1,4 +1,6 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# Ex.No.01 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+#### *Name:* VINCY JOVITHA V
+#### *Register Number:* 212223230242
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -29,11 +31,6 @@ Display the original, lower contrast, and higher contrast images.
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-## Program Developed By:
-- *Name:* VINCY JOVITHA V
-- *Register Number:* 212223230242
-
-  ### Ex. No. 01
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```
